@@ -1,1 +1,1 @@
-# World of Warcraft Classic Randomizer
+# World of Warcraft Character Randomizer (Classic, The Burning Crusade, Wrath of the Lich King)
